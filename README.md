@@ -47,10 +47,10 @@ In your nRF_Drivers (A tab in your left) Search and add the following files
 
 # Connections
 
-Sensor            nRF52840
+Sensor==>nRF52840
 
-Power              5V
+Power==>5V
 
-GND                GND
+GND==>GND
 
-DATA               Pin No:0.02
+DATA==>Pin No:0.02
