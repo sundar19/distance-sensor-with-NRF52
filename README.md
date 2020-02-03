@@ -44,3 +44,13 @@ In your nRF_Drivers (A tab in your left) Search and add the following files
 3.nrfx_timer.c
 
 4.nrfx_saadc.c
+
+# Connections
+
+Sensor            nRF52840
+
+Power              5V
+
+GND                GND
+
+DATA               Pin No:0.02
