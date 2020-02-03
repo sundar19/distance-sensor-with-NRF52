@@ -1,5 +1,8 @@
 # distance-sensor-with-NRF52840
-Measuring distance and sending the value to App over BLE
+Measuring distance and sending the value to App over BLE .
+The datasheet of the distance sensor is attached https://www.pololu.com/file/0J713/GP2Y0A41SK0F.pdf
+
+
 # General Instructions
 The following instructions are written for Segger Embedded Studio download here https://www.segger.com/downloads/embedded-studio/
 
