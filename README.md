@@ -1,6 +1,7 @@
 # distance-sensor-with-NRF52840
 Measuring distance and sending the value to App over BLE .
 The datasheet of the distance sensor is attached https://www.pololu.com/file/0J713/GP2Y0A41SK0F.pdf
+
 Use Nordic ToolBox UART to recieve values(available in Play Store)
 
 
